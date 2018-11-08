@@ -2,8 +2,8 @@ Group 02
 
 Members:
 Shrey Jain (e0267621)
-Manasa Kashyap
-Rahul Soni
+Manasa Kashyap (e0267773)
+Rahul Soni (e0210447)
 
 Running Instructions:
 
